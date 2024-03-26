@@ -9,7 +9,7 @@ prevents Ads from playing in spotify
 
 4) copy the url of the playlist that uou want to play and paste it in the inputs.json file
 
-5) run the spotifySkipper.py file
+5) run the spotify.py file
 
 6) Agree to the prompt spotify takes you to
 
